@@ -1,4 +1,4 @@
-# Course name: Materials
+# Integrating UIKit & SwiftUI: Materials
 
 > __TODO:__ Create a new repo from this template, create the requisite versions/x.x branch, add the video team with Write access, and update references in this readme as appropriate.
 
